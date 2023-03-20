@@ -5,8 +5,6 @@ import Section from '../Section/Section';
 import { Notification } from 'components/Notification/Notification';
 import css from '../Feedback/Feedback.module.css'
 
-
-
 class Feedback extends Component {
     state = {
       good: 0,
